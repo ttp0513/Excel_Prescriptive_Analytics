@@ -13,13 +13,13 @@ This repository includes multiple folders containing case studies where Excel wa
 - Optimize outcomes
 - Recommend strategic actions based on data
 
----
-
 ## 📁 Folder Structure
 Each folder includes:
 - 📂 Excel workbook (.xlsx) with formulas, Solver setup, or decision trees
 - 📝 Problem summary (.md or .txt)
 - 📌 Key takeaways and recommendations
+  
+---
 
 ## 🧠 Problems Solved
 
