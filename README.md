@@ -16,8 +16,7 @@ This repository includes multiple folders containing case studies where Excel wa
 ## 📁 Folder Structure
 Each folder includes:
 - 📂 Excel workbook (.xlsx) with formulas, Solver setup, or decision trees
-- 📝 Problem summary (.md or .txt)
-- 📌 Key takeaways and recommendations
+- 📝 Probject summary (.md)
   
 ---
 
