@@ -25,7 +25,7 @@ Each folder includes:
 
 ### 1. Pro-forma Model
 - **Challenge**: How different investment strategies in plant & equipment influence financial performance and risk exposure, given fluctuating revenue growth and cost assumptions.
-- **Tools Used**: Excel What-if Analysis (Data Table)  
+- **Tools Used**: Excel What-if Analysis (Data Table & Scenario Manager)  
 - **Outcome**: A slower pace of plant & equipment investment leads to higher net income and reduced long-term debt by 2030, at the cost of a smaller total asset base. This reflects a more conservative growth strategy that prioritizes profitability and financial stability over aggressive expansion.
 
 ### 2. WIP
