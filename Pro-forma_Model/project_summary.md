@@ -21,3 +21,5 @@ Using Excel’s What-If Analysis, multiple scenarios were generated to reflect s
 <h3> Key Insights </h3>
 
 Strategic Investment Timing: Fast-paced capital deployment accelerates asset growth but risks liquidity strain and elevated debt service. A balanced approach yields stronger long-term profitability with manageable leverage.
+
+<img width="1444" height="836" alt="image" src="https://github.com/user-attachments/assets/44e543af-8629-4264-830a-91b724e51f1b" />
